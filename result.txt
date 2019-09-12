@@ -1,0 +1,228 @@
+Linha 1:
+tk_begin
+
+Linha 3:
+tk_var
+tk_dp
+tk_id_type: x
+tk_recebe
+tk_abreparenteses
+tk_intid_type: 2
+tk_soma
+tk_intid_type: 4
+tk_fechaparenteses
+tk_pv
+
+Linha 4:
+tk_var
+tk_dp
+tk_intid_type: 1
+tk_id_type: y
+tk_virgula
+tk_id_type: z
+tk_virgula
+tk_id_type: g
+tk_pv
+
+Linha 6:
+tk_id_type: g
+tk_recebe
+tk_id_type: a
+tk_produto
+tk_diferenca
+tk_id_type: b
+tk_pv
+
+Linha 7:
+tk_id_type: x
+tk_recebe
+tk_abreparenteses
+tk_intid_type: 2
+tk_soma
+tk_intid_type: 4
+tk_soma
+tk_intid_type: 8
+tk_fechaparenteses
+tk_razao
+tk_intid_type: 2
+tk_produto
+tk_intid_type: 4
+tk_produto
+tk_abreparenteses
+tk_intid_type: 2
+tk_diferenca
+tk_intid_type: 5
+tk_soma
+tk_intid_type: 5
+tk_fechaparenteses
+tk_pv
+
+Linha 8:
+tk_id_type: y
+tk_recebe
+tk_abreparenteses
+tk_abreparenteses
+tk_intid_type: 4
+tk_soma
+tk_intid_type: 5
+tk_fechaparenteses
+tk_razao
+tk_intid_type: 8
+tk_produto
+tk_abreparenteses
+tk_intid_type: 4
+tk_soma
+tk_intid_type: 3
+tk_fechaparenteses
+tk_fechaparenteses
+tk_pv
+
+Linha 9:
+tk_id_type: z
+tk_recebe
+tk_id_type: x
+tk_inc
+tk_pv
+
+Linha 11:
+tk_do
+tk_abrechaves
+
+Linha 13:
+tk_escreva
+tk_abreparenteses
+tk_aspas
+tk_idString_type: hello world var
+tk_aspas
+tk_fechaparenteses
+tk_pv
+
+Linha 15:
+tk_fechachaves
+tk_while
+tk_abreparenteses
+tk_id_type: x
+tk_maior
+tk_intid_type: 7
+tk_fechaparenteses
+tk_pv
+
+Linha 18:
+tk_for
+tk_abreparenteses
+tk_id_type: x
+tk_pv
+tk_id_type: x
+tk_maior
+tk_intid_type: 7
+tk_pv
+tk_id_type: X
+tk_dec
+tk_pv
+tk_fechaparenteses
+tk_abrechaves
+
+Linha 20:
+tk_escreva
+tk_abreparenteses
+tk_aspas
+tk_idString_type: hello again
+tk_aspas
+tk_fechaparenteses
+tk_pv
+
+Linha 22:
+tk_fechachaves
+tk_pv
+
+Linha 24:
+tk_if
+tk_abreparenteses
+tk_id_type: x
+tk_menor
+tk_intid_type: 5
+tk_traco
+tk_and
+tk_traco
+tk_id_type: y
+tk_menor
+tk_intid_type: 3
+tk_fechaparenteses
+tk_abrechaves
+
+Linha 26:
+tk_escreva
+tk_abreparenteses
+tk_aspas
+tk_idString_type: look at me here one more time
+tk_aspas
+tk_fechaparenteses
+tk_pv
+
+Linha 28:
+tk_fechachaves
+tk_else_if
+tk_id_type: t
+tk_abreparenteses
+tk_id_type: x
+tk_menor
+tk_intid_type: 2
+tk_traco
+tk_or
+tk_traco
+tk_id_type: y
+tk_menor
+tk_intid_type: 2
+tk_fechaparenteses
+tk_abrechaves
+
+Linha 30:
+tk_escreva
+tk_abreparenteses
+tk_aspas
+tk_idString_type: oh no
+tk_aspas
+tk_fechaparenteses
+tk_pv
+
+Linha 32:
+tk_fechachaves
+tk_else_if
+tk_id_type: t
+tk_abreparenteses
+tk_id_type: x
+tk_menor
+tk_intid_type: 1
+tk_fechaparenteses
+tk_abrechaves
+
+Linha 34:
+tk_escreva
+tk_abreparenteses
+tk_aspas
+tk_idString_type: oh god
+tk_aspas
+tk_fechaparenteses
+tk_pv
+
+Linha 36:
+tk_fechachaves
+tk_else
+tk_abrechaves
+
+Linha 38:
+tk_escreva
+tk_abreparenteses
+tk_aspas
+tk_idString_type: oh no twice
+tk_aspas
+tk_fechaparenteses
+tk_pv
+
+Linha 40:
+tk_fechachaves
+tk_pv
+
+Linha 44:
+tk_end
+
